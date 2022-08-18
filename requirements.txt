@@ -1,0 +1,9 @@
+statsmodels
+numba
+pandas
+sklearn
+black
+jupyter
+seaborn
+tqdm
+pyg
