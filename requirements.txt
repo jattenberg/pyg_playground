@@ -6,4 +6,7 @@ black
 jupyter
 seaborn
 tqdm
+torch
+torch_sparse
 torch-geometric
+torch_scatter
